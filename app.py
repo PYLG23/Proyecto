@@ -1,2 +1,2 @@
-print (Hola mundo);
-print (Esta es una rama);
+print ("Hola mundo");
+print ("Esta es una rama");
